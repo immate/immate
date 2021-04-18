@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on data science projects
-- 📫 Reach me imre.matt@gmail.comm
+- 📫 Reach me imre.matt@gmail.com
 
 <!---
 immate/immate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
